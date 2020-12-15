@@ -8,4 +8,3 @@ Issue 操作を練習しましょう
 - 参照
 - コメント追加
 - クリックによる close/reopen
-- コミットによる Issue の close:
